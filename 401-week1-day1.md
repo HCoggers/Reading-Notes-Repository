@@ -1,3 +1,5 @@
+### Week 1, Monday  
+
 Try and Catch Blocks are statements that can be used when a block of code may throw an exception, or an error. 
 Just like in trying to code our calculators today, the program would probably err if someone tried to divide by zero.
 
