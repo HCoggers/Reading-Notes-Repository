@@ -1,4 +1,4 @@
-# [Reading-Notes-Repository](https://hcoggers.github.io/Reading-Notes-Repository/)
+# Reading Notes
 Basically, my virtual notebook.
 ## 401 C# & ASP.NET: Table Of Contents
 ### Week 1
