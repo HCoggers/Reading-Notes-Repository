@@ -15,3 +15,5 @@
 5. Theory
     - *Theories* are tests that depend mainly on the data being fed to them.
     - If a theory fails, it doesn't mean necessarily that the test is flawed, just that the variable data given to it didn't pass.
+
+#### [Table of Contents](https://hcoggers.github.io/Reading-Notes-Repository/)
