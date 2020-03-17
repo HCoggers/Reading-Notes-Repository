@@ -10,3 +10,5 @@ you can throw in there to keep the program running, or maybe you want to give th
 of the error. That's what the catch and finally block help you do. Although be careful using the finally block. 
 The CLR will always try to run any code in a finally block, even if your try statement doesn't throw any exceptions. 
 It's more useful for clean up and shut down procedures at the end of the program.
+
+#### [Table of Contents](https://hcoggers.github.io/Reading-Notes-Repository/)
