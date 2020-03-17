@@ -1,5 +1,5 @@
 ### Week 1, Tuesday  
-
+## Unit Testing
 1. Unit Test
     - A *unit test* is a test that runs on a single method in a program. They are used to make sure every individual aspect of a program works as intended.
     - Tests should be run from a __Separate__ file from the program they are testing, and given a reference to that original file
