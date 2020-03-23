@@ -10,3 +10,4 @@ Basically, my virtual notebook.
 
 ### Week 2
 - Day 1: [OOP Principles](https://hcoggers.github.io/Reading-Notes-Repository/dotnet-week2/401-week2-day1)
+- Day 2: [Interfaces](https://hcoggers.github.io/Reading-Notes-Repository/dotnet-week2/401-week2-day2)
