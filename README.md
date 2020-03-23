@@ -8,3 +8,5 @@ Basically, my virtual notebook.
 - Day 4: [Objects & Classes](https://hcoggers.github.io/Reading-Notes-Repository/dotnet-week1/401-week1-day4)
 - Day 5: [Linked Lists](https://hcoggers.github.io/Reading-Notes-Repository/dotnet-week1/401-week1-day5)
 
+### Week 2
+- Day 1: [OOP Principles](https://hcoggers.github.io/Reading-Notes-Repository/dotnet-week2/401-week2-day1)
