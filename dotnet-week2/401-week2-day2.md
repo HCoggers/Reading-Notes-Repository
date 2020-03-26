@@ -1,5 +1,5 @@
 ### Week 2, Tuesday
-## Interfaces
+## OOP Principles
 
 __OOP Vocab__
 1. Inheritance

@@ -1,5 +1,5 @@
 ### Week 2, Tuesday
-## Collections
+## Interfaces
 
 __Summary__  
 Interfaces are similar to abstract base classes, except for a few things. Most important, any class can implement as many interfaces as they want, but can only derive from a single base class. Also, interfaces cannot contain abstract members. Since an interface cannot be instatiated directly, all of its members must first be implemented in the class that is using it. 

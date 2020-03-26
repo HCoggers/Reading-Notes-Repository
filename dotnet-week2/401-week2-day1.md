@@ -1,5 +1,5 @@
 ### Week 2, Monday
-## OOP Principles
+## Test-Driven Development
 
 #### What
 __Test-Driven Development__ (TDD) is the process of building code based on the tests needed to prove that the code has the intended result

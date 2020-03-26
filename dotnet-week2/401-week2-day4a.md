@@ -1,5 +1,5 @@
 ### Week 2, Thursday
-## LINQ
+## Collections
 
 #### System.Collections Mix-and-Match  
 Pair each System.Collections.Generic Class Set with its functionality:
