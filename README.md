@@ -16,3 +16,6 @@ Basically, my virtual notebook.
     - [LINQ](https://hcoggers.github.io/Reading-Notes-Repository/dotnet-week2/401-week2-day4b)
 
 - Day 5: [Stacks & Queues](https://hcoggers.github.io/Reading-Notes-Repository/dotnet-week2/401-week2-day5)
+
+### Week 3
+- Day 1: [MVC](https://hcoggers.github.io/Reading-Notes-Repository/dotnet-week3/401-week3-day1)
