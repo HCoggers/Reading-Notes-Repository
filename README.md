@@ -13,8 +13,7 @@ Basically, my virtual notebook.
 - Day 2: [OOP Principles](https://hcoggers.github.io/Reading-Notes-Repository/dotnet-week2/401-week2-day2)
 - Day 3: [Interfaces](https://hcoggers.github.io/Reading-Notes-Repository/dotnet-week2/401-week2-day3)
 - Day 4: [Collections](https://hcoggers.github.io/Reading-Notes-Repository/dotnet-week2/401-week2-day4a)
-    - [LINQ](https://hcoggers.github.io/Reading-Notes-Repository/dotnet-week2/401-week2-day4b)
-
+- Extra: [LINQ](https://hcoggers.github.io/Reading-Notes-Repository/dotnet-week2/401-week2-day4b)
 - Day 5: [Stacks & Queues](https://hcoggers.github.io/Reading-Notes-Repository/dotnet-week2/401-week2-day5)
 
 ### Week 3
