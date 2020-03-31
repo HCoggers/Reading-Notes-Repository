@@ -19,4 +19,4 @@ Basically, my virtual notebook.
 
 ### Week 3
 - Day 1: [MVC](https://hcoggers.github.io/Reading-Notes-Repository/dotnet-week3/401-week3-day1)
-- Day 1: [Intro to ERDs](https://hcoggers.github.io/Reading-Notes-Repository/dotnet-week3/401-week3-day2)
+- Day 2: [Intro to ERDs](https://hcoggers.github.io/Reading-Notes-Repository/dotnet-week3/401-week3-day2)
