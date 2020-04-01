@@ -1,4 +1,4 @@
-### Week 3, Tueday
+### Week 3, Tuesday
 ## Intro to ERDS  
 ---  
 ### Schemas
