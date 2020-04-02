@@ -20,3 +20,4 @@ Basically, my virtual notebook.
 - Day 1: [MVC](https://hcoggers.github.io/Reading-Notes-Repository/dotnet-week3/401-week3-day1)
 - Day 2: [Intro to ERDs](https://hcoggers.github.io/Reading-Notes-Repository/dotnet-week3/401-week3-day2)
 - Day 3: [Entity Framework](https://hcoggers.github.io/Reading-Notes-Repository/dotnet-week3/401-week3-day3)
+- Day 4: [Entity Framework 2](https://hcoggers.github.io/Reading-Notes-Repository/dotnet-week3/401-week3-day4)
