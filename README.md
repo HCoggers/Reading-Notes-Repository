@@ -21,4 +21,4 @@ Basically, my virtual notebook.
 - Day 2: [Intro to ERDs](https://hcoggers.github.io/Reading-Notes-Repository/dotnet-week3/401-week3-day2)
 - Day 3: [Entity Framework](https://hcoggers.github.io/Reading-Notes-Repository/dotnet-week3/401-week3-day3)
 - Day 4: [Entity Framework 2](https://hcoggers.github.io/Reading-Notes-Repository/dotnet-week3/401-week3-day4)
-- Day 4: [Trees](https://hcoggers.github.io/Reading-Notes-Repository/dotnet-week3/401-week3-day5)
+- Day 5: [Trees](https://hcoggers.github.io/Reading-Notes-Repository/dotnet-week3/401-week3-day5)
