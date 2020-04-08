@@ -28,4 +28,4 @@ Basically, my virtual notebook.
 ### week 4
 - Day 1: [Dependency Injection](https://hcoggers.github.io/Reading-Notes-Repository/dotnet-week4/401-week4-day1)
 - Day 2: [Views & Deployment](https://hcoggers.github.io/Reading-Notes-Repository/dotnet-week4/401-week4-day2)
-- Day 3: [Deployment & Unit Testing](https://hcoggers.github.io/Reading-Notes-Repository/dotnet-week4/401-week4-day2)
+- Day 3: [Deployment & Unit Testing](https://hcoggers.github.io/Reading-Notes-Repository/dotnet-week4/401-week4-day3)
