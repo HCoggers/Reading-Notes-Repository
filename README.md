@@ -25,7 +25,10 @@ Basically, my virtual notebook.
 - Day 4: [Entity Framework 2](https://hcoggers.github.io/Reading-Notes-Repository/dotnet-week3/401-week3-day4)
 - Day 5: [Trees](https://hcoggers.github.io/Reading-Notes-Repository/dotnet-week3/401-week3-day5)
 
-### week 4
+### Week 4
 - Day 1: [Dependency Injection](https://hcoggers.github.io/Reading-Notes-Repository/dotnet-week4/401-week4-day1)
 - Day 2: [Views & Deployment](https://hcoggers.github.io/Reading-Notes-Repository/dotnet-week4/401-week4-day2)
 - Day 3: [Deployment & Unit Testing](https://hcoggers.github.io/Reading-Notes-Repository/dotnet-week4/401-week4-day3)
+
+### Week 6
+- Day 1: [Identity](https://hcoggers.github.io/Reading-Notes-Repository/dotnet-week6/401-week6-day1)
