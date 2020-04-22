@@ -1,0 +1,8 @@
+### Week 6, Wednesday
+## Claims
+**Claims**, in ASP.Net Core, are essentially the ways we can authorize Identities. Authorization, once again, defines what an Identity can do in our site.  
+ Each individual claim can consist of a Name-Value pair, or in some cases, just a Name. For instance, A site may have some features that are only available to logged in users. So the user would have a claim that might consist of just a username. The site doesn't need to know what that username is, it just needs to know you have one, therefore you can use the user-only sections of the site (say, leaving a comment or post on a forum).  
+Further, if a claim consisted of a name-value pair, it needs more specific information. Say you wanted to access a site that only accepted users who were older than 21. The claim would contain two strings: one, "Birth Date", confirming it found the correct property in your identity; two, "January 14, 1985", confirming that you are, indeed, over the required age of 21 and have *authorization* to the rest of the site.  
+Many forms of authorization require multiple claims. You can't log in to your email without both your email *and* your password. If your email is correct, but your password doesn't match what's in their database, you'll be denied entry, and you may even get an unseen mark that says you tried to log in with incomplete claims. Too many of those and a secure site may decide to lock you out.
+
+#### [Table of Contents](https://hcoggers.github.io/Reading-Notes-Repository/)
