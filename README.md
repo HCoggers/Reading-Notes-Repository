@@ -34,3 +34,4 @@ Basically, my virtual notebook.
 - Day 1: [Identity](https://hcoggers.github.io/Reading-Notes-Repository/dotnet-week6/401-week6-day1)
 - Day 2: [Razor Pages](https://hcoggers.github.io/Reading-Notes-Repository/dotnet-week6/401-week6-day2)
 - Day 3: [Claims](https://hcoggers.github.io/Reading-Notes-Repository/dotnet-week6/401-week6-day3)
+- Day 3: [Policies](https://hcoggers.github.io/Reading-Notes-Repository/dotnet-week6/401-week6-day4)
