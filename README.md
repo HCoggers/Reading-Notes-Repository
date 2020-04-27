@@ -36,3 +36,6 @@ Basically, my virtual notebook.
 - Day 3: [Claims](https://hcoggers.github.io/Reading-Notes-Repository/dotnet-week6/401-week6-day3)
 - Day 4: [Policies](https://hcoggers.github.io/Reading-Notes-Repository/dotnet-week6/401-week6-day4)
 - Day 5: [Hash Tables](https://hcoggers.github.io/Reading-Notes-Repository/dotnet-week6/401-week6-day5)
+
+### Week 7
+- Day 1: [View Components](https://hcoggers.github.io/Reading-Notes-Repository/dotnet-week7/401-week7-day1)
