@@ -39,4 +39,5 @@ Basically, my virtual notebook.
 
 ### Week 7
 - Day 1: [View Components](https://hcoggers.github.io/Reading-Notes-Repository/dotnet-week7/401-week7-day1)
-- Day 2: [OAUTH](https://hcoggers.github.io/Reading-Notes-Repository/dotnet-week7/401-week7-day2)
+- Day 2: [SendGrid](https://hcoggers.github.io/Reading-Notes-Repository/dotnet-week7/401-week7-day2)
+- Day 2: [OAUTH](https://hcoggers.github.io/Reading-Notes-Repository/dotnet-week7/401-week7-day3)
