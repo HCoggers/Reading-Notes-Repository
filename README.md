@@ -42,3 +42,4 @@ Basically, my virtual notebook.
 - Day 2: [SendGrid](https://hcoggers.github.io/Reading-Notes-Repository/dotnet-week7/401-week7-day2)
 - Day 3: [OAUTH](https://hcoggers.github.io/Reading-Notes-Repository/dotnet-week7/401-week7-day3)
 - Day 4: [Auth.NET](https://hcoggers.github.io/Reading-Notes-Repository/dotnet-week7/401-week7-day4)
+- Day 5: [Graphs](https://hcoggers.github.io/Reading-Notes-Repository/dotnet-week7/401-week7-day5)
