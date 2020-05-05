@@ -43,3 +43,6 @@ Basically, my virtual notebook.
 - Day 3: [OAUTH](https://hcoggers.github.io/Reading-Notes-Repository/dotnet-week7/401-week7-day3)
 - Day 4: [Auth.NET](https://hcoggers.github.io/Reading-Notes-Repository/dotnet-week7/401-week7-day4)
 - Day 5: [Graphs](https://hcoggers.github.io/Reading-Notes-Repository/dotnet-week7/401-week7-day5)
+
+### Week 8
+- Day 1: [Blob Storage](https://hcoggers.github.io/Reading-Notes-Repository/dotnet-week8/401-week8-day1)
