@@ -46,3 +46,4 @@ Basically, my virtual notebook.
 
 ### Week 8
 - Day 1: [Blob Storage](https://hcoggers.github.io/Reading-Notes-Repository/dotnet-week8/401-week8-day1)
+- Day 2: [Web Security](https://hcoggers.github.io/Reading-Notes-Repository/dotnet-week8/401-week8-day2)
