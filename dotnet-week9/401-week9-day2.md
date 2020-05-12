@@ -1,0 +1,9 @@
+### Week 9, Tuesday
+# Ethics
+## Ethics in the Workplace
+**The Code I'm Still Ashamed Of** is an article in which the writer, Bill Sourer, describes an experience he had creating unethical code for a pharmaceutical company. At the time, he didn't see anything wrong with the code he was writing until he saw the repercussions. I believe this is why we have "codes of conduct" and "ethics principles". If we're able to objectively hold a project up to a concrete list of what are essentially ethics tests, it's a lot easier for unassuming developers like young Bill to make decisions. For instance, in this situation, he could have seen a few things if he held this up to the ACM Code of Ethics. the First principle there is Public. It is specifically placed before client and employer, and Bill could have determined that the client's interest was actually being put ahead of the general public's in this situation, even if he didn't know that the drug could be harmful, he knew the "quiz" was not always giving the patient the best prescription to their situation.  
+
+## Ethics in Technology
+**The Ethical Dilemmas of Self-Driving Cars** is a great article, especially if you haven't thought a whole lot about moral philosophy dilemmas. The basic question is, when programming the AI of a self-driving car, what do you tell it to do when an accident is unavoidable? Protect the passenger at all costs? Protect pedestrians? Protect other drivers on the road? This dilemma is all in the programmer's hands when creating the AI logic to handle these situation, and since human lives are at risk either way, the decision can't be so cleanly made just from looking at an ethics code. The question being asked by the article though is not to find a solution to this dilemma, but to try and predict how similar advancements in tech will require some more advanced analysis of moral philosophy.
+
+#### [Table of Contents](https://hcoggers.github.io/Reading-Notes-Repository/)
