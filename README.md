@@ -51,3 +51,4 @@ Basically, my virtual notebook.
 ### Week 9
 - Day 1: [Xamarin](https://hcoggers.github.io/Reading-Notes-Repository/dotnet-week9/401-week9-day1)
 - Day 2: [Ethics](https://hcoggers.github.io/Reading-Notes-Repository/dotnet-week9/401-week9-day2)
+- Day 3: [Open-Source](https://hcoggers.github.io/Reading-Notes-Repository/dotnet-week9/401-week9-day3)
